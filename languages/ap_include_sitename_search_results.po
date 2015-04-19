@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sitelinks Search Box\n"
+"POT-Creation-Date: 2015-04-18 11:10+0100\n"
+"PO-Revision-Date: 2015-04-19 09:05+0100\n"
+"Last-Translator: Ramon <marketing@apasionados.es>\n"
+"Language-Team: Apasionados <info@apasionados.es>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../include-sitename-in-search-results.php:29
+msgid "Include Sitename in Search Results"
+msgstr ""
+
+#: ../include-sitename-in-search-results.php:29
+msgid ""
+"Adds the JSON-LD schema.org markupto include the \"Include Your Site Name in "
+"Search Results\" on the homepage. This new feature was presented on the <a "
+"href=\"http://googlewebmastercentral.blogspot.com.es/2015/04/better-"
+"presentation-of-urls-in-search.html\" target=\"_blank\">Official Google "
+"Webmaster Central Blog</a> (Thursday, April 16, 2015 ). There is more info "
+"on the <a href=\"https://developers.google.com/structured-data/site-name"
+"\">Google Developers Website</a>."
+msgstr ""
+
+#: ../include-sitename-in-search-results.php:70
+#: ../include-sitename-in-search-results.php:71
+msgid "Include Sitename in Search Result"
+msgstr ""
+
+#: ../include-sitename-in-search-results.php:82
+msgid "Include Sitename in Search Result Settings"
+msgstr ""
+
+#: ../include-sitename-in-search-results.php:103
+msgid "Custom Settings for \"Include Sitename in Search Result\""
+msgstr ""
+
+#: ../include-sitename-in-search-results.php:110
+msgid "Website Name:"
+msgstr ""
+
+#: ../include-sitename-in-search-results.php:118
+msgid "Alternative Website Name:"
+msgstr ""
+
+#: ../include-sitename-in-search-results.php:134
+msgid ""
+"This plugin includes the structured data markup to indicate the preferred "
+"name you want Google to display in Search results instead of the domain "
+"name. You can also provide more than one possible name for your site, and "
+"let Google Search algorithms choose between them."
+msgstr ""
+
+#: ../include-sitename-in-search-results.php:135
+msgid ""
+"If the first option: \"Website Name\" is empty, the website title (set in "
+"Settings / General) will be used."
+msgstr ""
+
+#: ../include-sitename-in-search-results.php:136
+msgid ""
+"If the second option: \"Alternative Website Name\" is empty, no alternative "
+"website name will be included in the markup."
+msgstr ""
+
+#~ msgid "Include Sitename Search Result"
+#~ msgstr "Incluir nombre de la web en los resultados de búsqueda"
+
+#~ msgid "Sitelinks Search Box"
+#~ msgstr "Sitelinks Search Box"
+
+#, fuzzy
+#~ msgid "SeoCrawlytics Data Export & Delete"
+#~ msgstr "asdasd"
+
+#, fuzzy
+#~ msgid ""
+#~ "Exports all entries of SeoCrawlytics and gives you the option to delete "
+#~ "the entries that are older than 1 month. We noticed that the size of the "
+#~ "SeoCrawlytics table in the database can get huge if your website has "
+#~ "visits while using \"WP Clean UP\" to clean up WordPress installations "
+#~ "and so we created this plugin. Disable when not in use."
+#~ msgstr ""
+#~ "Exporta todas las entradas de SeoCrawlytics y te da la opción de eliminar "
+#~ "todas las entradas más antiguas de un mes. Al usar WP Clean UP para "
+#~ "limpiar las instalaciones de WordPress nos dimos cuenta que el tamaño de "
+#~ "la tabla de SeoCrawlytics crece exponencialmente cuando un sitio web "
+#~ "tiene muchas visitas y por eso creamos este plugin. Desactívalo cuando no "
+#~ "lo uses."
