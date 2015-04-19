@@ -68,7 +68,7 @@ Of course we do. ;-)
 
 1. INCLUDE SITENAME IN SEARCH RESULTS Settings page
 2. Homepage source code example and check with Testing Tool
-3. Example of search results with implemented markup
+3. Example of search results with implemented markup (before and after)
 
 == Changelog ==
 
