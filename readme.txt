@@ -32,7 +32,7 @@ This first release is avaliable in English and Spanish. In the languages folder 
 If you would like the plugin in your language and you're good at translating, please drop us a line at [Contact us](http://apasionados.es/contacto/index.php?desde=wordpress-org-includesitenamesearchresults-home).
 
 = Further Reading =
-You can access the description of the plugin in Spanish at: [Include Sitename in Search Results en castellano](http://apasionados.es/blog/).
+You can access the description of the plugin in Spanish at: [Include Sitename in Search Results en castellano](http://apasionados.es/blog/nombre-web-en-resultados-de-busqueda-wordpress-plugin-6863/).
 
 == Installation ==
 
