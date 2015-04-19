@@ -53,7 +53,7 @@ The plugin creates a new option in the options table: ap_issr with values ap_iss
 = How can I check out if the plugin works for me? =
 Install and activate. Empty cache (if any cache plugin installed) and have a look at the source code of the homepage. At the end there should be the JSON-LD markup.
 You can also check with the [Structured Data Linter](http://linter.structured-data.org/) that the JSON-LD markup is correctly implemented.
-Or you can check with it (Google Developer)[https://developers.google.com/structured-data/testing-tool/] but you have to be logged in a Google account.
+Or you can check with it [Google Developer](https://developers.google.com/structured-data/testing-tool/) but you have to be logged in a Google account.
 
 = How can I remove INCLUDE SITENAME IN SEARCH RESULTS? =
 You can simply activate, deactivate or delete it in your plugin management section.
